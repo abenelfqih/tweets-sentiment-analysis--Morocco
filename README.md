@@ -2,7 +2,7 @@
 
 
 
-This project aims to perform sentiment analysis on Twitter data related to a specific topic using Selenium, NLTK (Natural Language Toolkit), and MongoDB. It collects tweets from Twitter, analyzes their sentiment using the VADER sentiment analysis tool, and stores the results in a MongoDB database.
+This project aims to perform sentiment analysis on Twitter data related to Morocco using Selenium, NLTK (Natural Language Toolkit), and MongoDB. It collects tweets from Twitter, analyzes their sentiment using the VADER sentiment analysis tool, and stores the results in a MongoDB database.
 
 ## Table of Contents
 
